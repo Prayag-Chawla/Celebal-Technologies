@@ -200,6 +200,16 @@ Accuracy : 0.8141800246609124
  Precision Score : 0.8036750483558994
  F1 Score : 0.810336421257923
  ROC-AUC Score : 0.8765890835032926
+
+
+## OUTPUT
+![image](https://github.com/Prayag-Chawla/Celebal-Technologies/assets/92213377/828058c3-7b90-47d8-95e5-0c96fd30a5c3)
+![image](https://github.com/Prayag-Chawla/Celebal-Technologies/assets/92213377/69a0d011-e8cf-4a2d-8560-25a044aae026)
+![image](https://github.com/Prayag-Chawla/Celebal-Technologies/assets/92213377/9283a2b2-61a2-47c3-866b-e19fd10ec70a)
+
+![image](https://github.com/Prayag-Chawla/Celebal-Technologies/assets/92213377/b367c579-fcd1-4d4e-9257-a3847634e656)
+
+
 ## Run Locally
 
 Clone the project
